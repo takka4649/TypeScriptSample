@@ -28,3 +28,6 @@ const {
 const bArr = [1, 2, 3, 4, 5, 6, 7];
 const [, ba, bb, , bc, , bd] = bArr;
 console.log(ba, bb, bc, bd);
+
+//タプル型の配列
+const tuppleArray: [string, number] = ['kontiwa', 222];
